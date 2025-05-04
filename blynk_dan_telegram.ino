@@ -7,8 +7,8 @@
 
 char ssid[] = "raqhamedia"; //nama wifi
 char password[] = "apayalupa"; //password wifi
-#define BOTtoken "1127735094:AAG3NxYtcNA4M1YBhuXiKuJCOyXw8v968pY" //token bot telegram
-#define idChat "326286458" //idbot
+#define BOTtoken "0123456789:abcdefghijklmnopqrstuvwxyz012345678" //token bot telegram
+#define idChat "123456789" //idbot
 
 WiFiClientSecure client;
 UniversalTelegramBot bot(BOTtoken, client);
